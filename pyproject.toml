@@ -1,0 +1,16 @@
+[project]
+name = "zyp-amaranth-libs"
+readme = "README.md"
+authors = [
+    {name = "Vegard Storheil Eriksen", email = "zyp@jvnv.net"},
+]
+license = {file = "LICENSE.txt"}
+requires-python = ">=3.8"
+dynamic = ["version"]
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+[tool.pdm.version]
+source = "scm"
