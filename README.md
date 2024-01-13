@@ -18,3 +18,7 @@ Simulation platform
 The `sim_platform` library contains a simulation platform with simulated IO registers.
 
 Note: This library is utilizing features from the currently not yet accepted [Amaranth RFC #36](https://github.com/amaranth-lang/rfcs/pull/36) and will not work with mainline Amaranth until it is accepted and an implementation is merged.
+
+LiteX glue
+----------
+The `litex_glue` library contains interwork helpers for working with hybrid projects that's based on both [LiteX](https://github.com/enjoy-digital/litex) and Amaranth.
