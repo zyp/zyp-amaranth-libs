@@ -1,6 +1,11 @@
 zyp's Amaranth libraries
 ========================
 
+> [!CAUTION]
+> This repository is deprecated.
+> All contents are obsolete and does not work with current Amaranth.
+> See [Katsuo](https://github.com/zyp/katsuo) for newer Amaranth components.
+
 This is a collection of various useful stuff I've made while working on [Amaranth](https://amaranth-lang.org/) based projects.
 
 API stability is not guaranteed. Linking to a specific git revision is recommended.
